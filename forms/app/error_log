@@ -1,0 +1,31 @@
+[17-Aug-2020 23:13:03 America/Guayaquil] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 17
+[17-Aug-2020 23:13:03 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 19
+[17-Aug-2020 23:13:03 America/Guayaquil] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 68
+[17-Aug-2020 23:13:03 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 72
+[17-Aug-2020 23:13:10 America/Guayaquil] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 17
+[17-Aug-2020 23:13:10 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 19
+[17-Aug-2020 23:13:10 America/Guayaquil] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 68
+[17-Aug-2020 23:13:10 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 72
+[17-Aug-2020 23:13:12 America/Guayaquil] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 17
+[17-Aug-2020 23:13:12 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 19
+[17-Aug-2020 23:13:12 America/Guayaquil] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 68
+[17-Aug-2020 23:13:12 America/Guayaquil] PHP Warning:  implode(): Invalid arguments passed in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 72
+[17-Aug-2020 23:34:56 America/Guayaquil] PHP Fatal error:  Uncaught Error: Call to undefined function vadump() in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 81
+[17-Aug-2020 23:35:02 America/Guayaquil] PHP Fatal error:  Uncaught Error: Call to undefined function vadump() in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 81
+[17-Aug-2020 23:36:41 America/Guayaquil] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 75
+[17-Aug-2020 23:37:10 America/Guayaquil] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/laborio20/public_html/forms/app/guardarResultadoSangre.php on line 75
+[20-Aug-2020 12:37:19 America/Guayaquil] PHP Warning:  include(envio_clave_paciente.php?cedula=$cedula&amp;correo=$correo&amp;clave=$clave): failed to open stream: No such file or directory in /home/laborio20/public_html/forms/app/guardarPaciente.php on line 32
+[20-Aug-2020 12:37:19 America/Guayaquil] PHP Warning:  include(envio_clave_paciente.php?cedula=$cedula&amp;correo=$correo&amp;clave=$clave): failed to open stream: No such file or directory in /home/laborio20/public_html/forms/app/guardarPaciente.php on line 32
+[20-Aug-2020 12:37:19 America/Guayaquil] PHP Warning:  include(): Failed opening 'envio_clave_paciente.php?cedula=$cedula&amp;correo=$correo&amp;clave=$clave' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/laborio20/public_html/forms/app/guardarPaciente.php on line 32

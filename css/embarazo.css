@@ -1,0 +1,171 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/*css de div de formulario embarazo*/
+div#body {
+	margin: auto;
+	margin-top: 60px;
+	width: 1150px;
+	height: 180px;
+	border: 1px solid black;
+	}
+div#borde {
+	
+	width: 270px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+div#izquierda {
+	
+	width: 270px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#centro {
+	
+	
+	width: 270px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#derecha {
+	
+	width: 270px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+
+
+/*css de div de formulario orina*/
+div#body1 {
+	margin: auto;
+	margin-top: 60px;
+	width: 1190px;
+	height: 529px;
+	border: 1px solid black;
+	}
+div#borde1 {
+	
+	width: 300px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+div#izquierda1 {
+	
+	width: 300px;
+	height: 250px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#centro1 {
+	
+	
+	width: 300px;
+	height: 250px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#derecha1 {
+	
+	width: 280px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+	/*css de div de formulario secrecion*/
+	div#body2 {
+	margin: auto;
+	margin-top: 60px;
+	width: 1190px;
+	height: 800px;
+	border: 1px solid black;
+	}
+div#borde2 {
+	
+	width: 300px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+div#izquierda2 {
+	
+	width: 300px;
+	height: 250px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#centro2 {
+	
+	
+	width: 300px;
+	height: 250px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#derecha2 {
+	
+	width: 280px;
+	height: 100px;
+	border: 1px transparent;
+	float: left;
+	}
+
+	/*css de div de formulario quimico_orina*/
+	div#body3 {
+	margin: auto;
+	margin-top: 60px;
+	width: 1210px;
+	height: 800px;
+	border: 1px solid black;
+	}
+div#borde3 {
+	
+	width: 300px;
+	height: 350px;
+	border: 1px transparent;
+	float: left;
+	}
+div#izquierda3 {
+	
+	width: 300px;
+	height: 350px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#centro3 {
+	
+	
+	width: 300px;
+	height: 350px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#derecha3 {
+	
+	width: 280px;
+	height: 350px;
+	border: 1px transparent;
+	float: left;
+	}
+
+div#centro31 {
+	
+	width: 1190px;
+	height: 50px;
+	border: 1px transparent;
+	float: right;
+	}

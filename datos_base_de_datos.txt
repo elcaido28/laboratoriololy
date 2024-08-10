@@ -1,0 +1,3 @@
+nombre base:   laborio2_loly
+nombre usuario de bd:   laborio2_root123
+clave usuario de bd:   Loly_root*
